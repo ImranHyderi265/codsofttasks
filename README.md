@@ -1,2 +1,2 @@
 # codsofttasks
-My Tasks for the Internship of codsoft
+My Tasks for the Internship in codsoft
